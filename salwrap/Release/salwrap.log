@@ -1,0 +1,30 @@
+﻿Build started 6/1/2022 5:40:26 PM.
+Project "C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\salwrap\salwrap\salwrap.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Touching "Release\salwrap.unsuccessfulbuild".
+ClCompile:
+  All outputs are up-to-date.
+  All outputs are up-to-date.
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\salwrap\Release\salwrap.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\salwrap.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\salwrap\Release\salwrap.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\salwrap\Release\salwrap.lib" /MACHINE:X86 /SAFESEH:NO Release\exception_handlers.obj
+  Release\functions.obj
+  Release\globals.obj
+  Release\rdtsc.obj
+  Release\salwrap.obj
+  Release\setup.obj
+  Release\stdafx.obj
+  Release\trampoline.obj
+  Release\utils.obj
+  Generating code
+  Finished generating code
+  salwrap.vcxproj -> C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\salwrap\Release\salwrap.exe
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\salwrap\Release\salwrap.exe;#1" /manifest Release\salwrap.exe.intermediate.manifest
+FinalizeBuildStatus:
+  Deleting file "Release\salwrap.unsuccessfulbuild".
+  Touching "Release\salwrap.lastbuildstate".
+Done Building Project "C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\salwrap\salwrap\salwrap.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.51

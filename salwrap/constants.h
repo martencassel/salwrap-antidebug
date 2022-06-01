@@ -1,0 +1,9 @@
+#pragma once
+
+#define DEBUG 0
+#define CURRENT_THREAD	0xFFFFFFFE
+#define ENABLE_DEBUG	0x11110455
+#define DISABLE_DEBUG	0x11110400
+#define XOR_KEY			0x7FFFFFFF
+
+#define TRAMPOLINE0_SIZE  1520
