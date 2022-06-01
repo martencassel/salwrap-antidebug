@@ -7,6 +7,7 @@ https://media.defcon.org/DEF%20CON%2016/DEF%20CON%2016%20presentations/DEF%20CON
 
 # Debug View
 
+```
 [2692] start_trampolines.
 [2692] trampoline0
 [2692] Push to callstack
@@ -25,3 +26,4 @@ https://media.defcon.org/DEF%20CON%2016/DEF%20CON%2016%20presentations/DEF%20CON
 [2692] Return from trampoline_fn.
 [2692] Pop callstack.
 [2692] end of start_trampolines.
+```
